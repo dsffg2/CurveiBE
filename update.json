@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "version": "1.6",
+  "download_url": "https://raw.githubusercontent.com/dsffg2/CurveiBE/refs/heads/main/VLLauncherQt.exe",
+  "sha256": "fb53783d33b226dacace96a642ef4eafe6327d6a94afd297a70c5f7d0034228e",
+  "size": 9421312,
+  "notes": "Security and stability update",
+  "signature": "Ps0HQ9jLt8kwqj7kBI1fVoCHf4GHBVVJgG1zJUAJufvnTldo5HN/qKDeD5te4IYIPbXRa/9rK5jNMdKR+76+7g=="
+}
