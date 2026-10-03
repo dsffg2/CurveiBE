@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "version": "2.2.0",
-  "download_url": "https://github.com/dsffg2/CurveiBE/raw/refs/heads/main/VXLauncher.exe",
-  "sha256": "b64d3262467a165e7c8cd716e9edd973fb85724236372518cad453d86ad24811",
-  "size": 6697096,
-  "notes": "Security and stability update",
-  "signature": "jdlYbNSmeKO7inLpQX9qrs/ZCI3SQ0V5HZkwtoGojvHIQMX1dMks4aPu/zZPy9W5kMsIM92h0A/K/46rqn6rjQ=="
+  "download_url": "https://raw.githubusercontent.com/dsffg2/CurveiBE/refs/heads/main/VXLauncher.exe",
+  "sha256": "68f51cb093a6fe276836dbc6f22ab8a335a7d5139b485c84e11b6483e75a4d35",
+  "size": 10750088,
+  "notes": "VX 2.2.0 - performance, UI and stability improvements",
+  "signature": "hN8JVqhP41ZXI7lpSLB7+NnKwj3EVFFFX/A9k1XfjFqHO2meJch1U+5HjTmEG7lRZ5Y1azQbs9AVR9UFqh4C9A=="
 }
