@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "2.2.1",
+  "version": "2.2.2",
   "download_url": "https://raw.githubusercontent.com/dsffg2/CurveiBE/refs/heads/main/VXLauncher.exe",
-  "sha256": "0d87a1184f4e2c79aa18d0163f71b1c89a9fa7ba6b6e08e226fea25f6b565bb7",
-  "size": 10749064,
-  "notes": "VX 2.2.1 - performance, UI and stability improvements",
-  "signature": "e2/W5H0D6waxrQXgoVontEsMKpkZKzqRmmIF6JoVqrKYlU0cjJO/kQPw2GkoXrFAHYpo9mwiA+tV/na9wzNVBQ=="
+  "sha256": "0c9288c436a3953e997720f05cb4e3755099a029c6788361439b70a8d3de4d1e",
+  "size": 10773128,
+  "notes": "VX 2.2.2 - automatic updater verification test",
+  "signature": "6I6099gyQp5sS0IM87GFZXZ5iohpA3vRUU+PJ6no72vwS+B6fslxEtP4iNB1+t9JxrUNuB0EPBlKkrnaSV24XQ=="
 }
