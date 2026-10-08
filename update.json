@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "2.3.0",
+  "version": "2.4.1",
   "download_url": "https://raw.githubusercontent.com/dsffg2/CurveiBE/refs/heads/main/VXLauncher.exe",
-  "sha256": "28bc92100a8c9f2d3dd34fddcf2ac46e95cb49b1b0d50ce8cc9691079d864b27",
-  "size": 6818816,
-  "notes": "VX 2.3.0",
-  "signature": "XeWYSdiI0nJ8J+Gprs/63vGVSMJcY3njthmluT7LlPLjBOkJjY3Sp3G8v9uyk43j0DbyuiJHyy4MTLGbMin+RQ=="
+  "sha256": "08f48398cc29e9525be237a186199e0cd9ec57aeeee16fc2669aa68b9213fc12",
+  "size": 11414664,
+  "notes": "VX 2.4.1 - automatic launcher update",
+  "signature": "MiMtj9jJudKAs0w+mlsa4BxyyTfNfEsUiNunW1Mc1sOscnQ3E5mXbOkDn/h48u2zPYOIy1ss1nGLAVDizV/5/w=="
 }
